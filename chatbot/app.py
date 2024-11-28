@@ -20,7 +20,7 @@ prompt = ChatPromptTemplate.from_messages(
     ]
 )
 
-st.title("Langchain DEmo with LLM")
+st.title("Langchain Demo with LLM")
 input_text = st.text_input("What you want to ask me?")
 
 llm = ChatOpenAI(model="gpt-3.5-turbo")
