@@ -11,3 +11,9 @@ bs4
 pypdf
 chromadb
 faiss-cpu
+groq
+cassi
+
+arxiv
+wikipedia
+langchainhub
